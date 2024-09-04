@@ -8,7 +8,7 @@ dotnet publish
 
 ### Run
 ```bash
-cd bin/Release/net8.0/publish/FtpDisclosure
+./bin/Release/net8.0/publish/FtpDisclosure
 ```
 
 #### Demo
